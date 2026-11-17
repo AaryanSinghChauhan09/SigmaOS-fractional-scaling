@@ -3,7 +3,7 @@ name = "SigmaOS-fractional-scaling"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "fractional-scaling component"
+description = "fractional scaling"
 upstream = []
 
 [contract]
